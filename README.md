@@ -1,6 +1,6 @@
 # 🌳 treesaver
 
-Restore any GitHub tree if you **accidentally force push**.
+Restore any GitHub tree after you **accidentally force push**.
 
 ### How to use it
 
